@@ -21,14 +21,43 @@ A **React Native** weather application that allows users to search for weather i
 ---
 
 ## Screenshots
+<table cellpadding="20">
+  <tr>
+    <td Align="center">
+      <img src="https://github.com/user-attachments/assets/5cee60b7-3f0f-4e97-a692-dbe50688a5d9" width="250"/><br/>
+    </td>
+    <td Align="center">
+      <img src="https://github.com/user-attachments/assets/7e8724ea-b987-4733-b285-989ae6dd6a8b" width="250"/><br/>
+    </td>
+    <td Align="center">
+      <img src="https://github.com/user-attachments/assets/b17630d8-1125-44be-b1b1-0268eb12170f" width="250"/><br/>
+    </td>
+  </tr>
+    <tr>
+    <td Align="center">
+      <img src="https://github.com/user-attachments/assets/3e2116e6-773e-4819-aaff-94138eaff62c" width="250"/><br/>
+    </td>
+    <td Align="center">
+      <img src="https://github.com/user-attachments/assets/a9fb7587-8b04-48f5-ae48-c04eec40aee0" width="250"/><br/>
+    </td>
+    <td Align="center">
+      <img src="https://github.com/user-attachments/assets/2ca752c9-66ac-48a6-8008-cf0633073519"  width="250"/><br/>
+    </td>
+  </tr>
+    <tr>
+    <td Align="center">
+      <img src="https://github.com/user-attachments/assets/d139a230-4606-4074-a4e2-5d8b1a8215bc" width="250"/><br/>
+    </td>
+    <td Align="center">
+      <img src="https://github.com/user-attachments/assets/5c804bd0-df34-42ce-a6b9-26b8b6fb6d9d" width="250"/><br/>
+    </td>
+    <td Align="center">
+      <img src="https://github.com/user-attachments/assets/11356c61-ee03-4627-a2f1-15bb1847314c" width="250"/><br/>
+    </td>
+  </tr>
+  ## </table>
 
-**Home Screen** | **Details Screen**
---- | ---
-![Home](https://github.com/user-attachments/assets/378d38a8-6957-4558-a3a9-9509a2afde8c) | ![Details](https://github.com/user-attachments/assets/c8853483-3303-4157-96b0-f57b69ad17f4)
-**Home Screen** | **Details Screen**
-![City Cards](https://github.com/user-attachments/assets/69dbd75a-3eac-445d-9f54-9fd95981691b) | ![Details Example](https://github.com/user-attachments/assets/cc7a6ecd-56e6-42ac-b66c-8cf5b81a77f8)
 
----
 
 ## Installation
 
