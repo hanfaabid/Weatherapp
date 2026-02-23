@@ -25,6 +25,7 @@ A **React Native** weather application that allows users to search for weather i
 **Home Screen** | **Details Screen**
 --- | ---
 ![Home](https://github.com/user-attachments/assets/378d38a8-6957-4558-a3a9-9509a2afde8c) | ![Details](https://github.com/user-attachments/assets/c8853483-3303-4157-96b0-f57b69ad17f4)
+**Home Screen** | **Details Screen**
 ![City Cards](https://github.com/user-attachments/assets/69dbd75a-3eac-445d-9f54-9fd95981691b) | ![Details Example](https://github.com/user-attachments/assets/cc7a6ecd-56e6-42ac-b66c-8cf5b81a77f8)
 
 ---
