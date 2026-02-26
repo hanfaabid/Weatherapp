@@ -21,6 +21,7 @@ A **React Native** weather application that allows users to search for weather i
 ---
 
 ## Screenshots
+Different cities weather
 <table cellpadding="20">
   <tr>
     <td Align="center">
@@ -55,7 +56,7 @@ A **React Native** weather application that allows users to search for weather i
       <img src="https://github.com/user-attachments/assets/a9fb7587-8b04-48f5-ae48-c04eec40aee0" width="250"/><br/>
     </td>
   </tr>
-  ## </table>
+ </table>
 
 
 
